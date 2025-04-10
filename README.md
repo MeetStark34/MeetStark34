@@ -16,7 +16,7 @@
 ### 👨‍💻 About Me
 
 💡 I'm a passionate software developer from **France 🇫🇷**, currently studying at **Aivancity**.  
-🌱 Currently exploring **Python**, **SQL**, **AWS**, and expanding my full-stack skills.  
+🌱 Currently exploring **Advance Python**, **SQL**, **AWS**, and expanding my full-stack skills.  
 🧠 Curious about **AI**, **data science**, and how code impacts the real world.  
 🎸 Outside of tech, I enjoy writing, music, and the occasional deep dive into animated multiverse chaos.  
 💬 Feel free to [reach out](mailto:starkmeet@gmail.com) for projects, collaborations, or just to say hi!  
@@ -53,12 +53,12 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats-salesp07.vercel.app/api?username=MeetStark34&show_icons=true&theme=react&rank_icon=github&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=MeetStark34&theme=react" />
+  <img width="48%" src="https://github-readme-stats-salesp07.vercel.app/api?username=MeetStark34&show_icons=true&theme=dark&rank_icon=github&count_private=true&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=MeetStark34&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeetStark34&repo=Language-Vault&layout=compact&langs_count=20&theme=react" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeetStark34&repo=Language-Vault&layout=compact&langs_count=20&theme=dark&hide_border=true" />
 </p>
 
 ---
