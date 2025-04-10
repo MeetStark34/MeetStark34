@@ -58,7 +58,7 @@
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=MeetStark34&layout=compact&hide=html&langs_count=8&theme=react" />
+  <img width="40%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=MeetStark34&layout=compact&hide=html&theme=react" />
 </p>
 
 ---
