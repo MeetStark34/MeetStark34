@@ -58,7 +58,7 @@
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeetStark34&repo=Language-Vault&layout=compact&langs_count=20&theme=dark&hide_border=true" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeetStark34&repo=Language-Vault&layout=compact&langs_count=20&theme=dark&hide_border=false" />
 </p>
 
 ---
