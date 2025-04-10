@@ -54,7 +54,7 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats-salesp07.vercel.app/api?username=MeetStark34&show_icons=true&theme=react&rank_icon=github&count_private=true" />
-  <img width="4%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=MeetStark34&theme=react" />
+  <img width="48%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=MeetStark34&theme=react" />
 </p>
 
 <p align="center">
